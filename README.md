@@ -21,5 +21,7 @@ The application has a clean and responsive UI built with **Tailwind CSS** to pro
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/spp-management-system.git
-cd spp-management-system
+https://github.com/Codpps/web-spp-laravel11.git
+cd web-spp-laravel11
+php artisan migrate
+php artisan serve
